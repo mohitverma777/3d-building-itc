@@ -1,0 +1,11 @@
+﻿src/App.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/App.tsx(5,10): error TS1484: 'FloorData' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/App.tsx(5,21): error TS1484: 'FloorType' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Building.tsx(3,10): error TS1484: 'FloorData' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Building.tsx(39,24): error TS6133: 'e' is declared but its value is never read.
+src/components/Hotspots.tsx(3,24): error TS1484: 'FloorData' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Hotspots.tsx(3,35): error TS1484: 'FloorType' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Scene.tsx(6,10): error TS1484: 'FloorData' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/Scene.tsx(6,21): error TS1484: 'FloorType' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/UI/NavigationPanel.tsx(2,10): error TS1484: 'FloorType' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
+src/components/UI/SidePanel.tsx(4,10): error TS1484: 'FloorData' is a type and must be imported using a type-only import when 'verbatimModuleSyntax' is enabled.
